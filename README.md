@@ -4,7 +4,7 @@
 👩‍🏫 Programming Instructor
 
 
-I'm passionate about data analysis, problem solving, and programming education.
+Passionate about data analysis, problem solving, and programming education.
 
 💻 Skills
 
