@@ -13,11 +13,5 @@ Passionate about data analysis, problem-solving, and programming education.
 
 ## 📂 Featured Projects
 
-📊 Sales Analysis Dashboard
-
-🛒 Customer Segmentation
-
-📈 Netflix Data Analysis
-
-💾 SQL Portfolio
+📁 Data-Analyst-Portfolio
 
