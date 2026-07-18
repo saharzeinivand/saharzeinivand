@@ -9,12 +9,12 @@ Passionate about data analysis, problem-solving, and programming education.
 
 ## 💻 Skills
 
-• Python
-• SQL Server
-• Pandas
-• NumPy
-• Excel
-• Power BI
+- Python
+- SQL Server
+- Pandas
+- NumPy
+- Excel
+- Power BI
 
 ## 📂 Featured Projects
 
