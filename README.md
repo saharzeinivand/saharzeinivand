@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Sahar Zeinivand
 
-<!--
-**saharzeinivand/saharzeinivand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst
+👩‍🏫 Programming Instructor
 
-Here are some ideas to get you started:
+💻 Skills
+Python • SQL • Pandas • NumPy • Power BI • Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects
+📊 SQL Portfolio
+🐍 Python Projects
+📈 Power BI Dashboards
+🎮 Scratch Educational Projects
