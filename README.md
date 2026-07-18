@@ -10,12 +10,5 @@ I'm passionate about data analysis, problem solving, and programming education.
 
     Python | SQL | Pandas | NumPy | Power BI | Excel
 
-📂 Featured Projects
+📂 Data-Analyst-Portfolio
 
-📊 SQL Portfolio
-
-🐍 Python Projects
-
-📈 Power BI Dashboards
-
-🎮 Scratch Educational Projects
