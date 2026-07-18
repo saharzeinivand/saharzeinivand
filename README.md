@@ -20,5 +20,4 @@ Passionate about data analysis, problem-solving, and programming education.
 
 📁 Data-Analyst-Portfolio
 
-    End-to-end data analysis projects using Python, SQL Server, Excel, and Power BI.
-
+    A collection of end-to-end data analysis projects using SQL Server, Python, Pandas, Excel, and Power BI.
