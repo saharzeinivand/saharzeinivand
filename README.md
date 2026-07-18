@@ -14,4 +14,5 @@ Passionate about data analysis, problem-solving, and programming education.
 ## 📂 Featured Projects
 
 📁 Data-Analyst-Portfolio
+End-to-end data analysis projects using Python, SQL Server, Excel, and Power BI.
 
