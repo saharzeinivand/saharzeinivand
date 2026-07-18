@@ -9,7 +9,7 @@ Passionate about data analysis, problem-solving, and programming education.
 
 💻 Skills
 
-    Python | SQL | Pandas | NumPy | Power BI | Excel
+    Python | SQL Server  | Pandas | NumPy | Power BI | Excel
 
 📂 Data-Analyst-Portfolio
 
