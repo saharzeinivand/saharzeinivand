@@ -11,5 +11,13 @@ Passionate about data analysis, problem-solving, and programming education.
 
     Python | SQL Server  | Pandas | NumPy | Power BI | Excel
 
-📂 Data-Analyst-Portfolio
+## 📂 Featured Projects
+
+📊 Sales Analysis Dashboard
+
+🛒 Customer Segmentation
+
+📈 Netflix Data Analysis
+
+💾 SQL Portfolio
 
